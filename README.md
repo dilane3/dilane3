@@ -5,7 +5,9 @@
 ### About Me
 
 My name is `Dilane Kombou`, commonly called `Dilane3` alias `D3`. I'm a FullStack JavaScript Developer.
-I'm specialized in three differents domains such as frontend, backend and mobile development. I mostly use React as a Frontend Library and Nodejs for the backend.
+
+I'm specialized in three differents domains such as `frontend`, `backend` and `mobile development`. 
+I mostly use React as a Frontend Library and Nodejs for the backend.
 
 I like building software solutions to solve real problem. It will be a pleasure to connect with you 😊😊
 
@@ -36,7 +38,7 @@ I like building software solutions to solve real problem. It will be a pleasure 
 
  ## Contact Me.
  <section>
-   <a href="https://dilane.com" target="_blank">
+   <a href="https://dilane3.com" target="_blank">
     <img align="left" alt="Md. Shakil Hossain | Website" width="16px" src="https://github.com/shakiliitju/shakiliitju/blob/main/world-wide-web.svg" />
    </a>
    
