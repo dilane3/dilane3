@@ -4,7 +4,7 @@
 
 ### About Me
 
-My name is `Dilane Kombou`, commonly called `Dilane3` alias `D3`. I'm a FullStack JavaScript Developer.
+My name is `Dilane Kombou`, commonly called `Dilane3` alias `D3`. I'm a FullStack JavaScript Developer & creator of [Rasengan.js](https://rasengan.dev) 🌀
 
 I'm specialized in three differents domains such as `frontend`, `backend` and `mobile development`. 
 I mostly use React as a Frontend Library and Nodejs for the backend.
